@@ -7,11 +7,12 @@
 } 
 .main{
     width: 100%;
-    background:url(background2.jpeng.jpg);
+    background: violet;
     background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;
+    
     
 }
 .logo{
